@@ -16,6 +16,9 @@ microservices and cloud-native architecture.
 — A RAG-based engine that ingests PDFs and generates 
 audience-specific FAQs using LangChain and Claude/OpenAI.
 
+🏭 **[FAQtory UI](https://github.com/sriharshitamaddali/FAQtory-UI)** 
+— React + Vite UI for FAQtory — upload a PDF, select audiences, generate tailored FAQs. Built with Chisel component library.
+
 🏭 **[Levee](https://github.com/sriharshitamaddali/levee-rate-limiter)** — Java rate limiter for external APIs and LLMs — Fixed Window and Token Bucket algorithms, Redis-backed, Strategy pattern, multi-tenant REST API.
 
 🏭 **[Chisel](https://github.com/sriharshitamaddali/chisel-ui-lib)** — Precision React UI component library with dark/light theming — powers FAQtory
